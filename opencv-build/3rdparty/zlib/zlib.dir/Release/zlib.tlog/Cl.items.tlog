@@ -1,0 +1,15 @@
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\adler32.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\adler32.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\compress.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\compress.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\crc32.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\crc32.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\deflate.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\deflate.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\gzclose.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\gzclose.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\gzlib.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\gzlib.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\gzread.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\gzread.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\gzwrite.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\gzwrite.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\inflate.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\inflate.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\infback.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\infback.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\inftrees.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\inftrees.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\inffast.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\inffast.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\trees.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\trees.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\uncompr.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\uncompr.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\zlib\zutil.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\zlib\zlib.dir\Release\zutil.obj

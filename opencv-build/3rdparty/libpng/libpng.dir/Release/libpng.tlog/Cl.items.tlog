@@ -1,0 +1,17 @@
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\png.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\png.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngerror.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngerror.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngget.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngget.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngmem.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngmem.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngpread.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngpread.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngread.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngread.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngrio.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngrio.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngrtran.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngrtran.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngrutil.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngrutil.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngset.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngset.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngtrans.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngtrans.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngwio.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngwio.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngwrite.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngwrite.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngwtran.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngwtran.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\pngwutil.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\pngwutil.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\intel\intel_init.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\intel_init.obj
+C:\Users\sheky\Downloads\opencv-4.11.0\3rdparty\libpng\intel\filter_sse2_intrinsics.c;C:\Users\sheky\Downloads\opencv-build\3rdparty\libpng\libpng.dir\Release\filter_sse2_intrinsics.obj

@@ -1,0 +1,2 @@
+C:\Users\sheky\Downloads\opencv-build\3rdparty\libjpeg-turbo\jpeg12-static.dir\Release\jpeg12-static.lib
+\\192.168.0.156\c\Users\sheky\Downloads\opencv-build\3rdparty\libjpeg-turbo\jpeg12-static.dir\Release\jpeg12-static.lib
