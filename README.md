@@ -12,16 +12,18 @@ This repository provides a **prebuilt OpenCV 4.11.0 binary** with **CUDA 12.8 su
 
 1. Ensure Python 3.11 is installed at:
    ```C:\Users<your-username>\AppData\Local\Programs\Python\Python311\```
+2. Install [CUDA v12.8](https://developer.nvidia.com/cuda-12-8-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_network) and [cuDNN v9.8.0](https://developer.nvidia.com/cudnn-9-8-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=Agnostic&cuda_version=12) (Unzip cuDNN folder to ```C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.8\``` merging the bin, lib and include folders).
 
-2. Download release directly, or clone this repository.
+3. Download release directly, or clone this repository.
 
-3. Run `install.bat` by double-clicking it or from a command prompt:
+4. Run `install.bat` by double-clicking it or from a command prompt:
 ```bash
 install.bat
 ```
 4. The Lib files will be installed at:
    ```C:\Users<your-username>\AppData\Local\Programs\Python\Python311\Lib\site-packages\cv2```
-5. **If you are using a virtual environment, please manually copy the cv2 folder to the virtual environment's site-packages folder, and edit config.py, config-3.11.py to match your paths**
+   
+6. **If you are using a virtual environment, please manually copy the cv2 folder to the virtual environment's site-packages folder, and edit config.py, config-3.11.py to match your paths**
 
 
 Build Info:
