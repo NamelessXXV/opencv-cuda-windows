@@ -19,6 +19,9 @@ This repository provides a **prebuilt OpenCV 4.11.0 binary** with **CUDA 12.8 su
 ```bash
 install.bat
 ```
+4. The Lib files will be installed at:
+   ```C:\Users<your-username>\AppData\Local\Programs\Python\Python311\Lib\site-packages\cv2```
+5. **If you are using a virtual environment, please manually copy the cv2 folder to the virtual environment's site-packages folder, and edit config.py, config-3.11.py to match your paths**
 
 
 Build Info:
