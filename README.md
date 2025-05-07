@@ -149,13 +149,13 @@ General configuration for OpenCV 4.11.0 =====================================
     Link libraries:              Dynamic load
 
   Python 3:
-    Interpreter:                 C:/Users/sheky/AppData/Local/Programs/Python/Python311/python.exe (ver 3.11.9)
-    Libraries:                   C:/Users/sheky/AppData/Local/Programs/Python/Python311/libs/python311.lib (ver 3.11.9)
+    Interpreter:                 C:/Users/username/AppData/Local/Programs/Python/Python311/python.exe (ver 3.11.9)
+    Libraries:                   C:/Users/username/AppData/Local/Programs/Python/Python311/libs/python311.lib (ver 3.11.9)
     Limited API:                 NO
-    numpy:                       C:/Users/sheky/AppData/Local/Programs/Python/Python311/Lib/site-packages/numpy/_core/include (ver 2.1.3)
-    install path:                C:/Users/sheky/AppData/Local/Programs/Python/Python311/Lib/site-packages/cv2/python-3.11
+    numpy:                       C:/Users/username/AppData/Local/Programs/Python/Python311/Lib/site-packages/numpy/_core/include (ver 2.1.3)
+    install path:                C:/Users/username/AppData/Local/Programs/Python/Python311/Lib/site-packages/cv2/python-3.11
 
-  Python (for build):            C:/Users/sheky/AppData/Local/Programs/Python/Python311/python.exe
+  Python (for build):            C:/Users/username/AppData/Local/Programs/Python/Python311/python.exe
 
   Java:
     ant:                         NO
